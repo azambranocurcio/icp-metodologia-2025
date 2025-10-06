@@ -3,7 +3,7 @@
 
 **Autor de la revisión:** Andrés Zambrano-Curcio
 
-**Fecha:** 6 de octubre de 2025  
+**Fecha:** 5 de octubre de 2025  
 
 ---
 
